@@ -22,7 +22,7 @@ size of file and improve load performance.
 
 controler call
 
-## $this->load->spark('style-aggregate/1.0.0');
+## $this->load->spark('style-aggregate/x.x.x');
 
 To load the aggregate spark..
 
