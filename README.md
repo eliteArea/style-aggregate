@@ -46,7 +46,7 @@ in config file you need to set
  - stylepath = array call all your style which want to compress or load.
 
 
-Into your views file in header you need to seample call global variable ganalitics.
+Into your views file in header you need to seample call global variable STYLE.
 
 if( defined('STYLE') ) {
   print( STYLE );
